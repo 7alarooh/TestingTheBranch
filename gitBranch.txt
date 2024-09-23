@@ -14,3 +14,5 @@ the 5th commit in main
 create new branch that naming "testing2"
 the first commit in testing2 branch
 the 2ed commit in testing2 branch 
+
+create new branch that naming "testing3"
